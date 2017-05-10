@@ -6,7 +6,7 @@
 <body>
 <form method="get" action="login.do">
     username : <input name="name"><br>
-    age : <input name="age">
+    age : <input name="age"><br>
     result: ${name}  ${age}
     <br>
     <input type="submit">

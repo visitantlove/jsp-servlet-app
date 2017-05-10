@@ -5,11 +5,9 @@
 </head>
 <body>
 <form method="get" action="login.do">
-    username : <input name="name"><br>
-    age : <input name="age"><br>
-    result: ${name}  ${age}
-    <br>
-    <input type="submit">
+    userid : <input name="user_id"><br>
+    password : <input name="password"><br>
+    <input type="submit" value="登陆">
 </form>
 </body>
 </html>

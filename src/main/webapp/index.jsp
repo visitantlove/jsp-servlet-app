@@ -5,8 +5,8 @@
 </head>
 <body>
 <form method="get" action="login.do">
-    userid : <input name="user_id"><br>
-    password : <input name="password"><br>
+    userid : <input type="text" name="user_id"><br>
+    password : <input type="password" name="password"><br>
     <input type="submit" value="登陆">
 </form>
 </body>
